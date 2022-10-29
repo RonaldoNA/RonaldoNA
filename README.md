@@ -1,2 +1,2 @@
-I’m @RonaldoNA
-An enthusiast of physics with a particular interest in quantum computing :)  
+My name is Ronaldo Navarro Ambriz 
+I'm an enthusiast of physics with a particular interest in quantum computing :)  
