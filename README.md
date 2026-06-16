@@ -14,7 +14,7 @@ I'm a Physicist and MSc student at the National Autonomous University of Mexico 
 
 ## 📈 What I'm up to
 - Running high-performance numerical simulations for complex quantum mechanics.
-- Documenting and breaking down academic literature (check out my `Review-of-papers` repository).
+- Documenting and breaking down academic literature (Spanish) (check out my `Review-of-papers` repository).
 - Building automated notification systems to monitor research data and streamline my workflow.
 
 📫 **Let's Connect:** I'm always open to discussing quantum physics, numerical simulations, tensor networks, or automation architectures. Feel free to explore my repositories!
