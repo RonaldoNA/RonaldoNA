@@ -1,6 +1,6 @@
 # Hi there, I'm Ronaldo Navarro Ambriz 👋
 
-I'm a Physicist and Doctoral Researcher at the National Autonomous University of Mexico (UNAM), specializing in the numerical simulation of quantum systems. 
+I'm a Physicist and MSc student at the National Autonomous University of Mexico (UNAM), specializing in the numerical simulation of quantum systems. 
 
 ## 🔬 About Me
 - ⚛️ My research heavily involves the Extented-Bose-Hubbard model, fractional statistics, and quantum walks.
